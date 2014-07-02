@@ -1,4 +1,4 @@
-MyTest
+MyTests
 ======
 
-MyTest
+MyTests
